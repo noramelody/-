@@ -1,0 +1,30 @@
+.imgone {
+	float: left;
+	height: 400px;
+	width: 33.33%;
+}
+.imgtwo {
+	float: center;
+	height: 300px;
+	width: 33.33%;
+}
+.imgthree {
+	float: right;
+	height: 250px;
+	width: 33.33%;
+}
+.h1 {
+	font-family: "楷体";
+	color: #333;
+	text-align: center;
+}
+.td {
+	font-family: "华文楷体";
+	font-size: 36px;
+	text-align: left;
+}
+.div {
+	height: auto;
+	width: 100%;
+		
+}
